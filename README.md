@@ -10,14 +10,7 @@ O conteúdo está organizado em duas frentes principais:
 Esta seção contém a base do aprendizado metodológico. Os diretórios não armazenam apenas scripts de execução, mas sim um formato integrado de **código e explicação teórica**. 
 - O foco é detalhar a matemática e a lógica por trás de cada modelo, justificando as decisões de implementação.
 - As resoluções e documentações contaram com discussões aprofundadas e sessões de *pair programming* assistidas por IA para consolidar o entendimento do funcionamento interno dos algoritmos de Machine Learning.
-
-### 2. Competição (Kaggle)
-Esta seção é dedicada à aplicação prática de ponta a ponta, focada na resolução de um problema real hospedado na plataforma Kaggle. O módulo documenta o ciclo de vida completo de um *pipeline* de dados:
-- Análise Exploratória de Dados (EDA) e pré-processamento rigoroso.
-- Seleção e engenharia de *features*.
-- Treinamento de modelos, validação cruzada e otimização de hiperparâmetros.
-- Estruturação do código para a submissão final.
-
+  
 ## Tecnologias e Ferramentas
 - Python
 - Scikit-Learn, Pandas, NumPy
